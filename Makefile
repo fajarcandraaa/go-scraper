@@ -7,3 +7,6 @@ clean:
 
 start:
 	@go run main.go
+
+update:
+	@go get -u
