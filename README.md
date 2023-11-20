@@ -1,4 +1,4 @@
-# Scraping data from marketplace website using golang and gocolly lib
+# Scraping data from some marketplace sites using golang and gocolly libraries
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
