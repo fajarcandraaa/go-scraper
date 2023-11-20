@@ -7,7 +7,7 @@ This is a little project about how to scraping data from marketplace using golan
 
 ## About code structure
 I'll sort by flow :
-1. Serive -> is about business logic
+1. Service -> is about business logic
 2. Repository -> is a layer between the Service and data layers of your application with an interface to perform create, read, update and delete CRUD operations. By using repositories in your application
 
 Than for this directory, not always go with the flow
