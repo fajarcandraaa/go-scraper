@@ -6,11 +6,9 @@
 This is a little project about how to scraping data from marketplace using golang and gocolly library. 
 
 ## About code structure
-I'll sort by flow :
+I'll try to sort by flow :
 1. Service -> is about business logic
 2. Repository -> is a layer between the Service and data layers of your application with an interface to perform create, read, update and delete CRUD operations. By using repositories in your application
-
-Than for this directory, not always go with the flow :
 3. DTO -> is a layer that used to transform data to an object
 4. Presentation -> is used to present some paylod or response
 5. Entity -> a layer that representation from database
